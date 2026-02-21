@@ -8,18 +8,18 @@
   ],
   "mods": [
     {
-      "id": "hd-ui-pack",
-      "name": "HD UI Pack",
+      "id": "dummydum-mod",
+      "name": "dummy mod for testing",
       "type": "mod",
       "version": "1.0.0",
       "author": "ExampleUser",
-      "description": "Replaces the default UI textures with high-resolution alternatives. Includes improved fonts, icons, and menu backgrounds.",
+      "description": "Yeaaah this does some pretty crazy stuff yeaa",
       "thumbnail": "https://placehold.co/400x225/1a1a2e/ffffff?text=HD+UI+Pack",
       "screenshots": [
         "https://placehold.co/800x450/1a1a2e/ffffff?text=Screenshot+1",
         "https://placehold.co/800x450/16213e/ffffff?text=Screenshot+2"
       ],
-      "download": "https://example.com/mods/hd-ui-pack.zip",
+      "download": "https://github.com/timkicker/modmanager-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
       "modpack_path": "content/"
     },
     {
